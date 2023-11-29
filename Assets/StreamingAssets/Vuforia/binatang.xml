@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="kuda" size="1.000000 0.701493" />
+    <ImageTarget name="kucing" size="1.000000 1.000000" />
+    <ImageTarget name="ayam" size="1.000000 0.875000" />
+    <ImageTarget name="rusa" size="1.000000 0.707516" />
+    <ImageTarget name="harimau" size="1.000000 0.560000" />
+  </Tracking>
+</QCARConfig>
